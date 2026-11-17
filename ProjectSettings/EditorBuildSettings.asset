@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/spelScen.unity
     guid: 06245385048410a409c0268044b62730
+  - enabled: 1
+    path: Assets/Scenes/Backstory.unity
+    guid: 952186502fa453d4a8c60e9ee7312ac4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
